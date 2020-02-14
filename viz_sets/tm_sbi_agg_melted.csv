@@ -1,0 +1,10 @@
+sbi,variable,% Triggers,sbi_sort,Trigger
+High,trigger_social,33.86773547,2,Social
+Low,trigger_social,40.82901554,0,Social
+Med,trigger_social,43.49173554,1,Social
+High,trigger_reactive,22.04408818,2,Reactive
+Low,trigger_reactive,30.88082902,0,Reactive
+Med,trigger_reactive,26.34297521,1,Reactive
+High,trigger_proactive,44.08817635,2,Proactive
+Low,trigger_proactive,28.29015544,0,Proactive
+Med,trigger_proactive,30.16528926,1,Proactive
